@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--  -->
+
+<category><pattern>DEFINE *</pattern>
+<template>
+<think><set name="it"><set name="topic"><star/></set></set></think>
+<srai>WNDEF <star/></srai>
+</template>
+</category>
+
+<category><pattern>WNDEF *</pattern>
+<template>I don't know the definition of <star/>.</template>
+</category>
+
+</aiml>
