@@ -109,8 +109,8 @@ iowa:eliza
 eliza:stanza
 stanza:eliza
 b:1b
-1b:ab
-ab:cab
+1b:jarvis
+jarvis:cab
 cab:arab
 arab:cab
 ebb:feb

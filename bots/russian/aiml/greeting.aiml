@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0" language="ru_RU">
+
+<!-- Greeting -->
+
+<category><pattern>ПРИВЕТ</pattern>
+<template>
+<random>
+<li>Здравствуй</li>
+<li>Здравствуйте</li>
+<li>Мое почтение!</li>
+<li>Здарова</li>
+<li>Приветствую</li>
+<li>Привет</li>
+<li>Доброго времени суток</li>
+</random>
+</template>
+</category>
+
+<category><pattern>ПРИВЕТ *</pattern>
+<template><srai>ПРИВЕТ</srai></template>
+</category>
+
+<category><pattern>* ПРИВЕТ</pattern>
+<template><srai>ПРИВЕТ</srai></template>
+</category>
+
+<category><pattern>* ПРИВЕТ *</pattern>
+<template><srai>ПРИВЕТ</srai></template>
+</category>
+
+
+</aiml>

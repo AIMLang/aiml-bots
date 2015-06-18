@@ -1,4 +1,3 @@
-
 ACCOUNT:hasPurpose:to track money
 ACCOUNT:hasSize:0
 ACCOUNT:hasSyllables:2

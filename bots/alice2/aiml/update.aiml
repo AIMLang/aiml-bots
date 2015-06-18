@@ -2,11 +2,11 @@
 <aiml>
 <!-- File: update.aiml -->
 <!-- Author: Dr. Richard S. Wallace -->
-<!-- Last modified: July 19, 2014 -->
+<!-- Last modified: June 11, 2015 -->
 <!--  -->
 <!-- This AIML file is part of the ALICE2 0.0.5 chat bot knowledge base. -->
 <!--  -->
-<!-- The ALICE2 brain is Copyright &copy; 2014 by ALICE AI Foundation. -->
+<!-- The ALICE2 brain is Copyright &copy; 2015 by ALICE AI Foundation. -->
 <!--  -->
 <!-- The ALICE2 brain is released under the terms of the GNU Lesser General -->
 <!-- Public License, as published by the Free Software Foundation. -->
@@ -42,9 +42,9 @@ Denormalize <get var="x3"/> = <denormalize><get var="x3"/></denormalize><br/></t
 <template><srai>TEST CRASH</srai></template>
 </category>
 <category><pattern>PROGRAM VERSION</pattern>
-<template>Program AB 0.0.6.24 beta -- AI Foundation Reference AIML 2.1 implementation</template>
+<template>Program Jarvis 0.0.6.26 beta -- AI Foundation Reference AIML 2.1 implementation</template>
 </category>
 <category><pattern>BRAIN BUILD</pattern>
-<template>Sat Jul 19 16:21:53 EDT 2014</template>
+<template>Thu Jun 11 13:33:34 SAMT 2015</template>
 </category>
 </aiml>
