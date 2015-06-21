@@ -29,12 +29,4 @@
 <template><srai>ПРИВЕТ</srai></template>
 </category>
 
-<category><pattern>^ TEST ^</pattern>
-    <template><srai>ПРИВЕТ</srai></template>
-</category>
-
-<category><pattern>*</pattern>
-<template>У меня нет ответа.</template>
-</category>
-
 </aiml>
