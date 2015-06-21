@@ -8,9 +8,8 @@
 
 <category>
 <pattern>RECOMMEND DINNER</pattern>
-<template>
+<template>How about
 <!-- http://travel.cnn.com/explorations/eat/best-usa-travel/top-50-american-foods-513946 -->
-How about
 <random>
 <li>Pizza</li>
 <li>Cobb salad</li>
@@ -40,7 +39,5 @@ How about
 </random>?
 </template>
 </category>
-
-
 
 </aiml>

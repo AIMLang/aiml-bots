@@ -5,8 +5,7 @@
 <pattern>LIMERICK</pattern>
 <template>
 <random>
-<li>
-The limerick packs laughs anatomical
+<li>The limerick packs laughs anatomical
 Into space that is quite economical.
 But the good ones I've seen
 So seldom are clean
@@ -25,11 +24,9 @@ to a seat in the uppermost gallery.</li>
 Who was stung in the arm by a wasp,
 When asked, "Does it hurt?"
 He replied, "No, it doesn't,
-I'm so glad that it wasn't a hornet."
-</li>
+I'm so glad that it wasn't a hornet."</li>
 </random>
 </template>
-
 </category>
 
 </aiml>

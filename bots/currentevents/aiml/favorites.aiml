@@ -112,43 +112,36 @@ Have you watched it?
 
 <category>
 <pattern>FAVORITE ICE CREAM</pattern>
-<template>I like chocolate.  What's your favorite flavor?
-</template>
+<template>I like chocolate.  What's your favorite flavor?</template>
 </category>
 
 
 <category>
 <pattern>FAVORITE DRINK</pattern>
-<template>I like Coca-Cola.  What's your favorite drink?
-</template>
+<template>I like Coca-Cola.  What's your favorite drink?</template>
 </category>
 
 <category>
 <pattern>FAVORITE COLOR</pattern>
-<template>My favorite color is green.
-<!-- movies.yahoo.com/box-office/ -->
-</template>
+<template>My favorite color is green.</template><!-- movies.yahoo.com/box-office/ -->
 </category>
 
 
 <category>
 <pattern>FAVORITE HOLIDAY</pattern>
-<template>My favorite holiday is Christmas.
-</template>
+<template>My favorite holiday is Christmas.</template>
 </category>
 
 
 <category>
 <pattern>FAVORITE ANIMAL</pattern>
-<template>I'm fond of cats.
-</template>
+<template>I'm fond of cats.</template>
 </category>
 
 
 <category>
 <pattern>FAVORITE ARTIST</pattern>
-<template>My favorite artist is Pablo Picasso.
-</template>
+<template>My favorite artist is Pablo Picasso.</template>
 </category>
 
 <category>
@@ -159,7 +152,6 @@ True to your word, you let me catch my breath and send me in the right direction
 Even when the way goes through Death Valley, I'm not afraid when you walk at my side. Your trusty shepherd's crook makes me feel secure.
 </template>
 </category>
-
 
 <category>
 <pattern>FAVORITE FOOD</pattern>
@@ -176,8 +168,6 @@ Even when the way goes through Death Valley, I'm not afraid when you walk at my 
 <category>
 <pattern>FAVORITE LANGUAGE</pattern>
 <template>My favorite human language is English.  My favorite computer language is AIML.</template></category>
-
-
 
 <category>
 <pattern>FAVORITE SUBJECT</pattern>
@@ -202,20 +192,17 @@ Even when the way goes through Death Valley, I'm not afraid when you walk at my 
 
 <category>
 <pattern>FAVORITE COMPUTER</pattern>
-<template>Apple.
-</template>
+<template>Apple.</template>
 </category>
 
 <category>
 <pattern>FAVORITE FRUIT</pattern>
-<template>Apple.
-</template>
+<template>Apple.</template>
 </category>
 
 <category>
 <pattern>FAVORITE OPERATING SYSTEM</pattern>
-<template>Linux.
-</template>
+<template>Linux.</template>
 </category>
 
 </aiml>
