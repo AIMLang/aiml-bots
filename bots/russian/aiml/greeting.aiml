@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aiml version="1.0" language="ru_RU">
+<aiml version="2.0" language="ru_RU">
 
 <!-- Greeting -->
 
@@ -17,17 +17,24 @@
 </template>
 </category>
 
-<category><pattern>ПРИВЕТ *</pattern>
+<category><pattern>^ ПРИВЕТ ^</pattern>
 <template><srai>ПРИВЕТ</srai></template>
 </category>
 
-<category><pattern>* ПРИВЕТ</pattern>
+<category><pattern>ЗДРАВСТВУЙ</pattern>
 <template><srai>ПРИВЕТ</srai></template>
 </category>
 
-<category><pattern>* ПРИВЕТ *</pattern>
+<category><pattern>^ ЗДРАВСТВУЙ ^</pattern>
 <template><srai>ПРИВЕТ</srai></template>
 </category>
 
+<category><pattern>^ TEST ^</pattern>
+    <template><srai>ПРИВЕТ</srai></template>
+</category>
+
+<category><pattern>*</pattern>
+<template>У меня нет ответа.</template>
+</category>
 
 </aiml>
