@@ -29,4 +29,8 @@
 <template><srai>ПРИВЕТ</srai></template>
 </category>
 
+<category><pattern>КАК ДЕЛА</pattern>
+<template>отлично</template>
+</category>
+
 </aiml>
