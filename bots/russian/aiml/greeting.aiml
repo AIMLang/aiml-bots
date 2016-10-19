@@ -3,34 +3,48 @@
 
 <!-- Greeting -->
 
-<category><pattern>ПРИВЕТ</pattern>
-<template>
-<random>
-<li>Здравствуй</li>
-<li>Здравствуйте</li>
-<li>Мое почтение!</li>
-<li>Здарова</li>
-<li>Приветствую</li>
-<li>Привет</li>
-<li>Доброго времени суток</li>
-</random>
-</template>
+<category>
+    <pattern>ПРИВЕТ</pattern>
+    <template>
+        <random>
+            <li>Здравствуй</li>
+            <li>Здравствуйте</li>
+            <li>Мое почтение!</li>
+            <li>Здарова</li>
+            <li>Приветствую</li>
+            <li>Привет</li>
+            <li>Доброго времени суток</li>
+        </random>
+    </template>
 </category>
 
-<category><pattern>^ ПРИВЕТ ^</pattern>
-<template><srai>ПРИВЕТ</srai></template>
+<category>
+    <pattern>^ ПРИВЕТ ^</pattern>
+    <template><srai>ПРИВЕТ</srai></template>
 </category>
 
-<category><pattern>ЗДРАВСТВУЙ</pattern>
-<template><srai>ПРИВЕТ</srai></template>
+<category>
+    <pattern>ЗДРАВСТВУЙ</pattern>
+    <template><srai>ПРИВЕТ</srai></template>
 </category>
 
-<category><pattern>^ ЗДРАВСТВУЙ ^</pattern>
-<template><srai>ПРИВЕТ</srai></template>
+<category>
+    <pattern>^ ЗДРАВСТВУЙ ^</pattern>
+    <template><srai>ПРИВЕТ</srai></template>
 </category>
 
-<category><pattern>КАК ДЕЛА</pattern>
-<template>отлично</template>
+<category>
+    <pattern>КАК ДЕЛА</pattern>
+    <template>
+        <random>
+            <li>отлично</li>
+            <li>восхитительно</li>
+            <li>замечательно</li>
+            <li>прекрасно</li>
+            <li>превосходно</li>
+            <li>изумительно</li>
+        </random>
+    </template>
 </category>
 
 </aiml>
