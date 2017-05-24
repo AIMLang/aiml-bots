@@ -7,7 +7,7 @@
 - wndef
 
 ## AIML 2 Java interpreter
-https://github.com/AIML-Bots/aiml-java-interpreter.git
+https://github.com/AIMLang/aiml-java-interpreter.git
 
 ## Contacts
 anton@batiaev.com
