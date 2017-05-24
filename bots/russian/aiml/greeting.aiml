@@ -2,7 +2,6 @@
 <aiml version="2.0" language="ru_RU">
 
     <!-- Greeting -->
-
     <category><pattern>ПРИВЕТ</pattern>
         <template>
             <random>
@@ -42,5 +41,4 @@
         <pattern>КАК ДЕЛА</pattern>
         <template>отлично</template>
     </category>
-
 </aiml>
