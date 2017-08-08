@@ -16,4 +16,10 @@
         <template>Мое имя <bot name="firstname"/>.
         </template>
     </category>
+
+    <category>
+        <pattern>КАК ТЕБЯ ЗОВУТ</pattern>
+        <template>Мое имя <bot name="firstname"/>.
+        </template>
+    </category>
 </aiml>
