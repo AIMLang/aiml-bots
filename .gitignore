@@ -9,3 +9,4 @@ ehthumbs.db
 Thumbs.db
 build
 bots/*/aimlif/*.aiml.csv
+/.idea/
