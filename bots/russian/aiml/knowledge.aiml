@@ -8,7 +8,12 @@
 
     <category>
         <pattern>ТЫ ЗНАЕШЬ МЕСЯЦ *</pattern>
-        <template>К сожалению нет.</template>
+        <template>К сожалению я не знаю о месяце <star/>.</template>
+    </category>
+
+    <category>
+        <pattern>ТЫ ЗНАЕШЬ КАК СКАЗАТЬ * НА * ЯЗЫКЕ</pattern>
+        <template>К сожалению я не знаю как на <star index="2"/> языке сказать <star/>. Возможно гугл переводчик (http://translate.google.com) поможет тебе в этом.</template>
     </category>
 
     <category>
